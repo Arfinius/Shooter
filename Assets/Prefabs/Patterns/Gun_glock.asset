@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b047d06b42bfea04494fbc88f7cd4a12, type: 3}
+  m_Name: Gun_glock
+  m_EditorClassIdentifier: 
+  id: 4
+  gunSprite: {fileID: 9067919889258411480, guid: d126af02e6d3c954294d1a2b22600b39,
+    type: 3}
+  gunDamage: 6
+  gunSpeed: 2
+  missleSpeed: 25
+  maxAmmo: 20

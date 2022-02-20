@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b047d06b42bfea04494fbc88f7cd4a12, type: 3}
+  m_Name: Gun_ak47
+  m_EditorClassIdentifier: 
+  id: 1
+  gunSprite: {fileID: -4252612395109493130, guid: b6f050d5d0e5eb84ea3c627f87110738,
+    type: 3}
+  gunDamage: 6
+  gunSpeed: 6
+  missleSpeed: 30
+  maxAmmo: 32
